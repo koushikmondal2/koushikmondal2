@@ -1,9 +1,5 @@
-### Hi there 👋
+### Here What I am working on 👋
 
-<!--
-**koushikmondal2/koushikmondal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Azure IoT
 - 🌱 I’m currently learning ... Angular
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/koushikmondal2)
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: ...
--->
+
